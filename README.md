@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity implements AdapterRVMultiTyp
     }
 }
 ```
+[FullCode](https://github.com/gzeinnumer/ViewBindingExample/blob/master/app/src/main/java/com/gzeinnumer/viewbindingexample/MainActivity.java)
 
 #
 #### ViewBinding On Fragment
@@ -105,6 +106,7 @@ public class MainFragment extends Fragment {
     }
 }
 ```
+[FullCode](https://github.com/gzeinnumer/ViewBindingExample/blob/master/app/src/main/java/com/gzeinnumer/viewbindingexample/MainFragment.java)
 
 #
 #### ViewBinding On AdapterRecyclerView (Single Type)
@@ -153,6 +155,7 @@ public class AdapterRV extends RecyclerView.Adapter<AdapterRV.MyHolder> {
     }
 }
 ```
+[FullCode](https://github.com/gzeinnumer/ViewBindingExample/blob/master/app/src/main/java/com/gzeinnumer/viewbindingexample/AdapterRV.java)
 
 #
 #### ViewBinding On AdapterRecyclerView (Multi Type)
@@ -217,6 +220,7 @@ public class AdapterRV extends RecyclerView.Adapter<AdapterRV.MyHolder> {
     }
 }
 ```
+[FullCode](https://github.com/gzeinnumer/ViewBindingExample/blob/master/app/src/main/java/com/gzeinnumer/viewbindingexample/AdapterRVMultiType.java)
 
 #
 #### ViewBinding On DialogFragment
@@ -264,6 +268,7 @@ public class MainDialog extends DialogFragment {
     }
 }
 ```
+[FullCode](https://github.com/gzeinnumer/ViewBindingExample/blob/master/app/src/main/java/com/gzeinnumer/viewbindingexample/MainDialog.java)
 
 ---
 

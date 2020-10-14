@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="456a55dc-0428-4a32-a722-27d41f2ed861" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +163,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602681644599</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="example rilis">
+      <created>1602682578934</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602682578934</updated>
+    </task>
+    <task id="LOCAL-00004" summary="example rilis">
+      <created>1602682797283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602682797283</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,18 +198,18 @@
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
     <state x="236" y="293" key="AndroidCreateResourceFileDialog/0.0.2498.1080/2622.312.1304.768@0.0.2498.1080" timestamp="1594283358044" />
-    <state x="-2277" y="-42" key="CommitChangelistDialog2" timestamp="1602682577618">
+    <state x="-2277" y="-42" key="CommitChangelistDialog2" timestamp="1602682795679">
       <screen x="-2560" y="-169" width="2560" height="1040" />
     </state>
-    <state x="-2277" y="-42" key="CommitChangelistDialog2/-2560.-169.2560.1040/0.0.1366.728@-2560.-169.2560.1040" timestamp="1602682577618" />
+    <state x="-2277" y="-42" key="CommitChangelistDialog2/-2560.-169.2560.1040/0.0.1366.728@-2560.-169.2560.1040" timestamp="1602682795679" />
     <state x="276" y="132" key="CommitChangelistDialog2/0.0.2498.1080/2622.312.1304.768@0.0.2498.1080" timestamp="1594285554673" />
     <state x="1029" y="293" key="FileChooserDialogImpl" timestamp="1594288885653">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
     <state x="1029" y="293" key="FileChooserDialogImpl/0.0.2498.1080/2622.312.1304.768@0.0.2498.1080" timestamp="1594288885653" />
-    <state x="-2302" y="82" key="Vcs.Push.Dialog.v2" timestamp="1602682582593">
+    <state x="-2302" y="82" key="Vcs.Push.Dialog.v2" timestamp="1602683009965">
       <screen x="-2560" y="-169" width="2560" height="1040" />
     </state>
-    <state x="-2302" y="82" key="Vcs.Push.Dialog.v2/-2560.-169.2560.1040/0.0.1366.728@-2560.-169.2560.1040" timestamp="1602682582593" />
+    <state x="-2302" y="82" key="Vcs.Push.Dialog.v2/-2560.-169.2560.1040/0.0.1366.728@-2560.-169.2560.1040" timestamp="1602683009965" />
   </component>
 </project>
