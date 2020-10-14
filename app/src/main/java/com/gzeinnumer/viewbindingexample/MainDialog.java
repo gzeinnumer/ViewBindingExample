@@ -92,4 +92,10 @@ public class MainDialog extends DialogFragment {
             }
         });
     }
+
+    @Override
+    public void onDestroyView() {
+        super.onDestroyView();
+        binding = null;
+    }
 }

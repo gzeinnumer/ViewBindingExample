@@ -55,6 +55,12 @@ public class MainActivity extends AppCompatActivity implements AdapterRVMultiTyp
         
         binding.myTextView.setText("Hallo GZeinNumer");
     }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        binding = null;
+    }
 }
 ```
 
@@ -249,6 +255,12 @@ public class MainDialog extends DialogFragment {
         super.onViewCreated(view, savedInstanceState);
         
         binding.myTextView.setText("Hallo GZeinNumer");
+    }
+
+    @Override
+    public void onDestroyView() {
+        super.onDestroyView();
+        binding = null;
     }
 }
 ```

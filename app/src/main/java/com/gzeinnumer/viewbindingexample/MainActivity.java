@@ -89,4 +89,10 @@ public class MainActivity extends AppCompatActivity implements AdapterRVMultiTyp
     public void myOnClick(int position) {
         Toast.makeText(MainActivity.this, String.valueOf(position), Toast.LENGTH_SHORT).show();
     }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        binding = null;
+    }
 }
