@@ -1,5 +1,7 @@
 # ViewBindingExample
 
+- [View Binding](https://developer.android.com/topic/libraries/view-binding?hl=id)
+
 **Important** enable `ViewBinding` on your project, setup in `gradle`.
 
 ```gradle
