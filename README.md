@@ -45,7 +45,7 @@ android {
 > MainActivity.java
 
 ```java
-public class MainActivity extends AppCompatActivity implements AdapterRVMultiType.MyOnClick {
+public class MainActivity extends AppCompatActivity implements AdapterRV.MyOnClick {
 
     private ActivityMainBinding binding;
 
@@ -182,13 +182,13 @@ public class AdapterRV extends RecyclerView.Adapter<AdapterRV.MyHolder> {
 > AdapterRV.java
 
 ```java
-public class AdapterRV extends RecyclerView.Adapter<AdapterRV.MyHolder> {
+public class AdapterRV extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
     
     ...
     
     @NonNull
     @Override
-    public MyHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+    public RecyclerView.ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         if (holder.getItemViewType() == TYPE_NORMAL) {
             return new MyHolder(ItemListBinding.inflate(LayoutInflater.from(parent.getContext()), parent, false));
         } else {
