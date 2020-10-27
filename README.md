@@ -45,7 +45,7 @@ android {
 > MainActivity.java
 
 ```java
-public class MainActivity extends AppCompatActivity implements AdapterRV.MyOnClick {
+public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding binding;
 
